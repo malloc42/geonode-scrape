@@ -1,5 +1,4 @@
 # Discontinued (A lot of better providers available)
-<hr>
 # geonode-scrape
 [GeoNode](https://geonode.com) is a web-based application and platform for developing geospatial information systems (GIS)<br>
 and for deploying spatial data infrastructures (SDI).<br>
